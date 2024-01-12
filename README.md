@@ -36,13 +36,12 @@
 <br>
 
 <!-- Activities -->
-<!--
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeej&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=syeej&show_icons=true">
 </div>
--->
-<!-- Contact -->
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=syeej&show_icons=true">
+</div>
 
 
 <!--
