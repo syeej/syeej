@@ -1,7 +1,24 @@
 ### Hi My name is syJoh 👋
+<!--
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=syeej%20Github!&fontSize=70" />	
 </div>
+-->
+#### 🌱 I’m currently learning..
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+
+<div>
+  <h3> ✨CONTACT✨ </h3>
+  <a href="mailto:syee2joe@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+  <a href="https://syeej.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+</div>
+
+<!-- 
 <div align=center>
   <h3> ✨CONTACT✨ </h3>
   <a href="mailto:syee2joe@gmail.com">
@@ -11,6 +28,7 @@
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 </div>
+-->
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p> 🛠Platforms & Languages🛠 </p>
