@@ -38,4 +38,8 @@
  	<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="aws s3">
 </div>
 <br>
-
+<!-- Activities -->
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeej&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=syeej&show_icons=true">
+</div>
