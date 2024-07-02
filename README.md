@@ -15,7 +15,7 @@
 	</a>
 	<h3>🌱 I’m currently learning..</h3>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
-	<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue">
+	<img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="DB">
 </div>
 
 <div align=center>
@@ -35,7 +35,8 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
 	<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
- 	<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="aws s3">
+	<!--<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> -->
+ 	<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3">
 </div>
 <br>
 <!-- Activities -->
