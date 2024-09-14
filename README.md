@@ -14,7 +14,7 @@
 		<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blog">
 	</a>
 	<h3>🌱 I’m currently learning..</h3>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
+	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring boot">
 	<img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="DB">
 </div>
 
@@ -24,19 +24,21 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java">
+	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring boot">
+ 	<img src="https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=mybatis&logoColor=white" alt="mybatis">
+	<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=jpa&logoColor=white" alt="jpa">
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+	<br/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-	<br>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
 	<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue">
- 	<img src="https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=mybatis&logoColor=white" alt="mybatis">
-	<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=jpa&logoColor=white" alt="jpa">
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
 	<br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-	<!--<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> -->
- 	<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3">
+	<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws ec2">
+	<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws s3">
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="github actions">
 </div>
 <br>
 <!-- Activities -->
